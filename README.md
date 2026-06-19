@@ -1,5 +1,2 @@
-# Data Science Capstone Project
+#IBM Data Science Capstone Project - Khayelihle Ngcebo Mfeka
 
-## Editing the file
-
-Its a markdown file in this repository
